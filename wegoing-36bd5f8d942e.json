@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "wegoing",
+  "private_key_id": "36bd5f8d942e085852f0da819e0b6a901b7dd55b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDZ722SjXEDgCxx\nUfmmZXFx7vJB7pd+T1rpOQYXaXske/xw9wztdtPjIs8OGOilYYrBWd5ztcs4KskP\nBORv2I9pn8FUXDMclBYBrJ3qQkZJuWDOQxd17/rr8YDcHL/CU10QUKyHmoaX0HLH\nh/91UAmE8JqCoteiBEdsLUuzBKkbDB6p3wT+smU0WnAzixbLVBiMdpvRb+W1ugsY\ntQAfcDkpG5dc+S4zvPvMlE9yEPXhifPW/wWNYYOI6vf4pxbrIbs9g2YElpdbsnI3\ngpSk3mDi44TCZ4wmeZVJTe9MFIC5+s59OEPw+zvjVY9axIYj6Nqns2Mm41sc0TBO\nLiCVKxgZAgMBAAECggEADUaWyenoU8KD0o5gExkUYVChPM90NotOei0RWC1ChV0x\nKk9+X9vQegJlkxIE4AgyW+dl0+4j2ELQ9yOA5+hNCi3jaMhqC6hgs87oWrwZTIXo\npf/zxqktA6D1TNNKgiOyZFtJu0P4RXi6+TkpYGPVBJ5khyc01AeHM0mKFjhnNcC5\nKnwXpJbjoN24tDeMp2exeJlIrj+LjW/R6Fc9jiBM0pWbsw3Poekgo4oDngwSnFZJ\nq7ArL2OrAyO8ixDRhTXVbnzET0HHL+02SEyS1jizHtOdiuxw/vQE5J9j5Kg2mTOQ\nRn+cBZrmqCiAf/Kjf7RgUQKkFcq0FDGmBAMAH+/CtQKBgQD7vxIeqZUTttHQXN2c\n83NYD4AQYMpWF8eHM3BQzX97Uz7ED/sQjcx9oc2xsEGvlmGNO3N+R7rQcm83KCk0\nmcGjAej5hVcvInS+oK+ni3F6qX/DmtqR+p9QBThpKZpj9w4NRIWuXNYI35IHTK6v\n/QfdJmp+4iWFngwJww3p9Q5X7QKBgQDdnht1s98/hOroA602MfNCezchxvm8oiO9\nlMA1+Te/E8NRW83+oUH5vWby6P5QzLoz6z7odvTC17jNw6CulXPeLgc5PoZQ6tbt\n1EvW+TuQ22qfypZsuFDYnUddD2CO+N/+219FAkSB1eu6K9y0i3c7ZGZFPqWzESrO\nXMNSFzbjXQKBgHfXJ2sNU3hFCXBlJOI4SmpbRp2FVgzR2RwVcpwkl1E/+Zsf+GaS\n+gu8YMz7mOlbbyjqajptLxNXxnW9WpA9uZ49pIhT34MCpgyxNa1OhkDcO4QETZQ8\neGaBda8qLOL1kuzh97lfXExxEXUEHgyNKZcvWHb6dN48tIJZJmB/VcqpAoGBAIGn\n7JzSHTyGQQB4li/szUsJ11l1lcpcediCXGm3YnvxzgWdVkkwgu7fdomK8q7G9/FE\nIkvSvKP5nW8Ukr9RRLap6yP8hox0uEXwPGaK7eRz2k+eMJ9uvi3c5lF1m6JJzJLI\nOVagWwAy7XTAEKG4Loua05KTclHvK0IMV2GBn2UpAoGAV9WNV4kmD21X/OvVDbaD\np2FIzhDtmONhqanih/9vrGI5yPc8kpOXViGyENZO0TDbJzJbY9rgGd0wBD3idfnL\n/irsRrGshxM9jUV8GQS9cl8fvp7JDkAuPQbXo6OwENMtBYdz1DFXuhu8HRSgo20X\naFZTd7jirEzgvxj6DYr81Hw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloud-storage-handler@wegoing.iam.gserviceaccount.com",
+  "client_id": "101209447044022422327",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloud-storage-handler%40wegoing.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
