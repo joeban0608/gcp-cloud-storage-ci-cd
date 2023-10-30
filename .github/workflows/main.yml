@@ -28,7 +28,7 @@ jobs:
         id: auth
         uses: google-github-actions/auth@v1
         with:
-          service_account: ${{ secrets.WIF_SERVICE_ACCOUNT }}
+          credentials_json: ${{ secrets.SERVICE_ACCOUNT_KEY_JSON }}
 
       - id: upload-files
         uses: google-github-actions/upload-cloud-storage@v1
