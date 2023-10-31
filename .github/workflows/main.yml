@@ -2,8 +2,8 @@ name: Deploy to gcp / cloud storage
 
 on:
   push:
-    branches:
-      - main # Modify this to match your main branch name
+    tags:
+      - deploy/* # Modify this to match your main branch name
 
 jobs:
   deploy:
